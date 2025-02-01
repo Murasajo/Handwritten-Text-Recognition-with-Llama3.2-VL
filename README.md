@@ -2,7 +2,6 @@
 
 This project uses a fine-tuned version of the **Llama3.2-VL** model to extract handwritten text from images. The model is optimized for precision and clarity, making it ideal for digitizing handwritten notes, letters, or documents. The project includes a user-friendly Gradio interface for easy interaction.
 
-![Alt Text](Screenshot 2.png)
 ---
 
 ## 🚀 Features
