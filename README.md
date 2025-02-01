@@ -6,6 +6,8 @@ This project uses a fine-tuned version of the **Llama3.2-VL** model to extract h
   <img src="Images/Screenshot 2025-02-01 205325.png" alt="Handwritten text sample 1" width="600"/>
 </p>
 
+---
+
 <p align="center">
   <img src="Images/Screenshot 2.png" alt="Handwritten text sample 2" width="600"/>
 </p>
