@@ -1,0 +1,9 @@
+gradio
+transformers
+torch
+pillow
+numpy
+huggingface_hub
+peft
+unsloth
+bitsandbytes

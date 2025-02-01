@@ -1,0 +1,9 @@
+{
+    "model_type": "llama",
+    "architectures": ["LlamaForCausalLM"],
+    "hidden_size": 4096,
+    "num_attention_heads": 32,
+    "num_hidden_layers": 80,
+    "max_position_embeddings": 2048
+  }
+  
