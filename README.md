@@ -29,7 +29,7 @@ If you do not have a local GPU with 24GB+ VRAM, you can use **Google Colab**:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/handwritten-text-recognition.git
+   git clone https://github.com/Murasajo/Handwritten-Text-Recognition-with-Llama3.2-VL.git
    cd handwritten-text-recognition
    ```
 
